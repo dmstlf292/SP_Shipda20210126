@@ -1,6 +1,12 @@
 # SP_Shipda20210126
 SP_Shipda20210126
 
+![001](https://user-images.githubusercontent.com/73155839/105938665-0bda8600-609b-11eb-9516-4edefdff1695.png)
+
+![002](https://user-images.githubusercontent.com/73155839/105938669-0d0bb300-609b-11eb-8677-401580f1bfe4.png)
+
+
+#20210126_NOTE
 * 로그인. 회원가입 디자인 밑 색상 손보기
 * 채팅 메시지함 숫자 출력 다시확인, 이미지파일 출력, 채팅 한글 깨짐 현상, 자기자신에게 못 보내도록 팝업 나타나는지 확인
 * 회원가입시 이메일 인증 구현 확인
